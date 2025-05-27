@@ -1,8 +1,5 @@
 - 👋 Hi, I’m @JohhJiang
-- 👀 I’m interested in Blockchain
-- 🌱 I’m currently learning Solidity
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in teaching Alevel and AP computer science
 
 <!---
 JohhJiang/JohhJiang is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
